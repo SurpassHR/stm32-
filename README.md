@@ -6,3 +6,4 @@
 
 <h3/>微信指令输入或自动模式
 
+<h3/>第三方库:itchat pyautogui
